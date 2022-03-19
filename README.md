@@ -49,8 +49,10 @@
   <a href="mailto: toufiqul.shihab@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/toufiqul-hasan/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://twitter.com/toufiqul_hasan/"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> <a href="https://www.facebook.com/t.h.shihab/"><img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://www.instagram.com/_bahihs_/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://t.me/toufiqul_hasan/"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
-<div style="width: 50%;" align="center" >
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=toufiqul-hasan" alt="GitHub Profile Views Counter"> </a>
-</div>
+<br>
+
+<p align="center">
+  <img height="30" src="https://komarev.com/ghpvc/?username=toufiqul-hasan&style=for-the-badge&color=lightgrey" alt="Toufiqul Hasan's GitHub Profile Views Counter">
+</p>
 
 <!-- Icons: https://dev.to/envoy_/150-badges-for-github-pnk -->
