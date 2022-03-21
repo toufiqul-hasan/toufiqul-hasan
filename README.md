@@ -54,3 +54,7 @@
 <p align="center">
   <img height="30px" src="https://komarev.com/ghpvc/?username=toufiqul-hasan&style=for-the-badge&color=lightgrey" alt="Toufiqul Hasan's GitHub Profile Views Counter">
 </p>
+
+<p align="center">
+  <img src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
