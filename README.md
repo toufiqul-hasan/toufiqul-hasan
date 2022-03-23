@@ -26,7 +26,7 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=toufiqul-hasan&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&custom_title=Toufiqul%20Hasan's%20GitHub%20Statistics" alt="Toufiqul Hasan's GitHub Statistics">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=toufiqul-hasan&show_icons=true&hide_border=true&count_private=true&custom_title=Toufiqul%20Hasan's%20GitHub%20Statistics" alt="Toufiqul Hasan's GitHub Statistics">
     </td>
     <td>
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqul-hasan&show_icons=true&hide_border=true&layout=compact&langs_count=8&custom_title=Toufiqul%20Hasan's%20Most%20Used%20Languages" alt="Toufiqul Hasan's Most Used Languages">
@@ -36,7 +36,7 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=toufiqul-hasan&hide_border=true&custom_title=Last%2031%20Days%20GitHub%20Activity%20Graph&theme=github-light" alt="Toufiqul Hasan's Last 31 Days GitHub Activity Graph">
+      <img src="https://activity-graph.herokuapp.com/graph?username=toufiqul-hasan&hide_border=true&custom_title=Toufiqul%20Hasan's%20Last%2031%20Days%20GitHub%20Activity%20Graph&theme=github-light" alt="Toufiqul Hasan's Last 31 Days GitHub Activity Graph">
     </td>
   </tr>
 <table>
