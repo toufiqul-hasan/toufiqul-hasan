@@ -36,7 +36,7 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      <img src="https://activity-graph.herokuapp.com/graph?username=toufiqul-hasan&hide_border=true&custom_title=Toufiqul%20Hasan's%20Last%2031%20Days%20GitHub%20Activity%20Graph&theme=github-light" alt="Toufiqul Hasan's Last 31 Days GitHub Activity Graph">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=toufiqul-hasan&hide_border=true&custom_title=Toufiqul%20Hasan's%20Last%2031%20Days%20GitHub%20Activity%20Graph&theme=github-light" alt="Toufiqul Hasan's Last 31 Days GitHub Activity Graph">
     </td>
   </tr>
 <table>
