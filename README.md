@@ -29,7 +29,7 @@
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=toufiqul-hasan&show_icons=true&hide_border=true&count_private=true&custom_title=Toufiqul%20Hasan's%20GitHub%20Statistics" alt="Toufiqul Hasan's GitHub Statistics">
     </td>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqul-hasan&show_icons=true&hide_border=true&layout=compact&langs_count=8&custom_title=Toufiqul%20Hasan's%20Most%20Used%20Languages" alt="Toufiqul Hasan's Most Used Languages">
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqul-hasan&show_icons=true&hide_border=true&layout=compact&langs_count=8&custom_title=Toufiqul's%20Most%20Used%20Languages" alt="Toufiqul Hasan's Most Used Languages">
     </td>
   </tr>
 </table>
