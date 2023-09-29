@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img height="30px" src="./assets/hi.gif" alt="Hi"> I'm Toufiqul Hasan</h1>
+<h1 align="center">Hi,👋 I'm Toufiqul Hasan</h1>
 
 <br>
 
