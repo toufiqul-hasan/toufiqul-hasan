@@ -44,7 +44,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=toufiqul-hasan&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toufiqul Hasan's GitHub Streak Statistics">
     </td>
     <td>
-      <a href="https://app.daily.dev/toufiqul_hasan"><img src="https://github.com/toufiqul-hasan/toufiqul-hasan/blob/main/devcard.svg" width="300" alt="Toufiqul Hasan's Dev Card"/></a>
+      <a href="https://app.daily.dev/toufiqul_hasan"><img src="./devcard.png" width="300" alt="Toufiqul Hasan's Dev Card"/></a>
     </td>
   </tr>
 </table>
