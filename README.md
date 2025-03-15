@@ -41,7 +41,9 @@
 <table width="100%" align="center">
   <tr>
     <td>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=toufiqul-hasan&hide_border=true&date_format=j%20M%5B%20Y%5D">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=toufiqul-hasan&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toufiqul Hasan's GitHub Streak Statistics">
+    </a>
     </td>
     <td>
       <a href="https://app.daily.dev/toufiqul_hasan"><img src="./devcard.png" width="300" alt="Toufiqul Hasan's Dev Card"/></a>
@@ -51,17 +53,23 @@
 <table width="100%" align="center">
   <tr>
     <td>
+    <a href="https://github-readme-stats.vercel.app/api?username=toufiqul-hasan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Toufiqul%20Hasan's%20GitHub%20Statistics">
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=toufiqul-hasan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Toufiqul%20Hasan's%20GitHub%20Statistics" alt="Toufiqul Hasan's GitHub Statistics">
+    </a>
     </td>
     <td>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqul-hasan&show_icons=true&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages">
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqul-hasan&show_icons=true&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages" alt="Toufiqul Hasan's Most Used Languages">
+    </a>
     </td>
   </tr>
 </table>
 <table width="100%" align="center">
   <tr>
     <td>
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=toufiqul-hasan&hide_border=true&custom_title=Toufiqul%20Hasan's%20Last%2031%20Days%20GitHub%20Activity%20Graph&theme=github-light">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=toufiqul-hasan&hide_border=true&custom_title=Toufiqul%20Hasan's%20Last%2031%20Days%20GitHub%20Activity%20Graph&theme=github-light" alt="Toufiqul Hasan's Last 31 Days GitHub Activity Graph">
+    </a>
     </td>
   </tr>
 <table>
@@ -82,5 +90,7 @@
 <br>
 
 <p align="center">
+  <a href="https://komarev.com/ghpvc/?username=toufiqul-hasan&style=for-the-badge&color=lightgrey">
   <img height="30px" src="https://komarev.com/ghpvc/?username=toufiqul-hasan&style=for-the-badge&color=lightgrey" alt="Toufiqul Hasan's GitHub Profile Views Counter">
+  </a>
 </p>
