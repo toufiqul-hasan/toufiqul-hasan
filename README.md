@@ -88,7 +88,6 @@
 </p>
 
 <br>
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=toufiqul-hasan&style=for-the-badge&color=lightgrey">
   <img height="30px" src="https://komarev.com/ghpvc/?username=toufiqul-hasan&style=for-the-badge&color=lightgrey" alt="Toufiqul Hasan's GitHub Profile Views Counter">
