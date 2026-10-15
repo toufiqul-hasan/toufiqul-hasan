@@ -55,8 +55,8 @@
 <table width="100%" align="center">
   <tr>
     <td>
-    <a href="https://github-stats-bd.vercel.app/api?username=toufiqul-hasan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Toufiqul%20Hasan's%20GitHub%20Statistics">
-      <img height="200em" src="https://github-stats-bd.vercel.app/api?username=toufiqul-hasan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Toufiqul%20Hasan's%20GitHub%20Statistics" alt="Toufiqul Hasan's GitHub Statistics">
+    <a href="https://github-stats-bd.vercel.app/api?username=toufiqul-hasan&show_icons=true&hide_border=true&hide_rank=true&custom_title=Toufiqul%20Hasan%27s%20GitHub%20Statistics">
+      <img height="200em" src="https://github-stats-bd.vercel.app/api?username=toufiqul-hasan&show_icons=true&hide_border=true&hide_rank=true&custom_title=Toufiqul%20Hasan%27s%20GitHub%20Statistics" alt="Toufiqul Hasan's GitHub Statistics">
     </a>
     </td>
     <td>
