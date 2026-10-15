@@ -44,7 +44,7 @@
   <tr>
     <td>
     <a href="https://github-streak-stats-bd.vercel.app/?user=toufiqul-hasan&hide_border=true&date_format=j%20M%5B%20Y%5D">
-      <img src="github-streak-stats-bd.vercel.app/?user=toufiqul-hasan&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toufiqul Hasan's GitHub Streak Statistics">
+      <img src="https://github-streak-stats-bd.vercel.app/?user=toufiqul-hasan&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Toufiqul Hasan's GitHub Streak Statistics">
     </a>
     </td>
     <td>
