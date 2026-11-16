@@ -82,10 +82,10 @@
 
 <p align="center">
   <a href="mailto: touphiqul@gmail.com"><img height="30px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/toufiqul-hasan/"><img height="30px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/toufiqul_hasan/"><img height="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.facebook.com/t.h.shihab/"><img height="30px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.instagram.com/_bahihs_/"><img height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/toufiqul-hasan/"><img height="30px" src="https://img.shields.io/badge/LinkedIn-2767B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/toufiqul_hasan/"><img height="30px" src="https://img.shields.io/badge/x.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.facebook.com/t.h.shihab/"><img height="30px" src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/_bahihs_/"><img height="30px" src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://t.me/toufiqul_hasan/"><img height="30px" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
